@@ -1,0 +1,5 @@
+{
+  "name": "+1-1 Routine Companion",
+  "description": "A wellness companion that organizes your today (+1) based on your yesterday (-1) using AI. It helps you with sleep, energy, training, nutrition, and personal goals, all through simple selections without typing.",
+  "requestFramePermissions": []
+}
